@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="205.193px"
+   height="206.693px"
+   viewBox="0 0 205.193 206.693"
+   enable-background="new 0 0 205.193 206.693"
+   xml:space="preserve"
+   sodipodi:docname="experience_icon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs153" /><sodipodi:namedview
+   id="namedview151"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="4.9687219"
+   inkscape:cx="102.64209"
+   inkscape:cy="103.24587"
+   inkscape:window-width="2560"
+   inkscape:window-height="1377"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g148"
+   transform="matrix(0.86334801,0,0,0.86334801,14.042563,13.993301)">
+	<path
+   fill="#5a4d9b"
+   d="m 132.211,81.329 h 25.938 c 1.975,0 3.775,0.804 5.059,2.097 1.303,1.303 2.097,3.095 2.097,5.059 v 54.787 c 0,1.974 -0.804,3.776 -2.097,5.06 -1.302,1.302 -3.094,2.096 -5.059,2.096 h -25.938 c -1.975,0 -3.776,-0.804 -5.059,-2.096 -1.303,-1.304 -2.097,-3.095 -2.097,-5.06 V 88.475 c 0,-1.975 0.803,-3.776 2.097,-5.059 1.303,-1.302 3.084,-2.087 5.059,-2.087 z m 23.392,31.221 -12.042,2.402 2.434,-3.603 c -3.899,-3.991 -8.175,-5.375 -13.214,-3.767 5.252,-6.77 12.398,-6.922 18.069,-3.431 l 2.483,-3.674 2.27,12.073 z m -57.056,-18.059 12.042,-2.402 -2.432,3.604 c 3.898,3.99 8.173,5.374 13.212,3.766 -5.253,6.769 -12.398,6.923 -18.068,3.431 l -2.484,3.674 -2.27,-12.073 z M 43.323,54.374 h 108.025 c 1.71,0 3.105,1.395 3.105,3.104 v 18.771 h -6.596 V 63.626 c 0,-1.507 -1.232,-2.748 -2.749,-2.748 H 49.553 v 0 c -1.507,0 -2.749,1.231 -2.749,2.748 v 52.812 c 0,1.507 1.231,2.75 2.749,2.75 h 68.743 v 12.959 H 43.323 c -1.71,0 -3.105,-1.395 -3.105,-3.104 V 57.479 c 0,-1.71 1.395,-3.105 3.105,-3.105 z m 68.091,82.057 c 0.072,4.877 2.076,9.233 7.523,12.673 H 75.734 c 4.347,-3.154 7.534,-6.992 7.523,-12.673 z m -14.079,-14.75 c 2.199,0 3.991,1.781 3.991,3.991 0,2.199 -1.792,3.99 -3.991,3.99 -2.199,0 -3.99,-1.781 -3.99,-3.99 0.001,-2.199 1.782,-3.991 3.99,-3.991 z m 47.835,19.951 c 1.618,0 2.941,1.303 2.941,2.942 0,1.619 -1.303,2.942 -2.941,2.942 -1.619,0 -2.943,-1.303 -2.943,-2.942 0.001,-1.618 1.304,-2.942 2.943,-2.942 z m -17.102,-2.239 h 34.213 V 91.091 h -34.213 z"
+   id="path146" />
+</g>
+</svg>

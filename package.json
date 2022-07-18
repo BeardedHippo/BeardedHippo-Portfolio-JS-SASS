@@ -1,0 +1,26 @@
+{
+  "name": "beardedhippo-portfolio",
+  "version": "1.0.0",
+  "description": "Codebase of my portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch src/scss -o src/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeardedHippo/beardedhippo-portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Beardedhippo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BeardedHippo/beardedhippo-portfolio/issues"
+  },
+  "homepage": "https://github.com/BeardedHippo/beardedhippo-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
